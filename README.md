@@ -13,6 +13,10 @@ this, we can configure many settings(min % price change, min USDT volume, etc.) 
 As of now, the application works, there are some features still to be implemented and some code that is either not
 used or not honored(some settings), with time this will be improved.
 
+Project in action:
+
+https://user-images.githubusercontent.com/18094815/205074611-e6bf1b74-9d67-4f52-bd87-324a43c32927.mp4
+
 ## Features
 
 - Support for Binance Spot and Binance USD-m futures
@@ -122,3 +126,6 @@ for the help:
 - https://github.com/ccxt/ccxt/blob/master/python/ccxt/base/exchange.py#L1434
 - https://github.com/Skudarilia/binance_websocket/blob/fc01f1eb3f6c009cd56a3647da858b2dcb8ed44c/src/work.py
 - https://github.com/crossbario/autobahn-python/blob/master/examples/twisted/websocket/echo_variants/client_with_params.py
+
+
+
